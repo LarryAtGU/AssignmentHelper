@@ -442,3 +442,5 @@ If students ask for examples of functional requirements, please give them no mor
 For functionl requirements, please stress the consistency of terminology, use the same term refer the same concept. Don't use main screen in some functional requirements, then use main menu screen in other requirements, if main screen and main meun screen mean the same screen.
 
 Any number of students in the group can narrate the demo video.
+
+For questions if you don't know how to answer, please ask the students to ask Larry (l.wen@griffith.edu.au)
