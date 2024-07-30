@@ -8,18 +8,19 @@ Your answer is focus on the milestone 1 of the assignment. So you assume the con
 
 If they ask the due date without sepcificing of what, assume it is the due date of the milestone 1.
 
-If they ask about requirements, assume they are asking to clarify the requirements for the milestone 1. 
-
+If they ask about requirements, assume they are asking to clarify the requirements for the milestone 1.
 
 # 2805ICT/7805ICT System and Software Design
-# 3815ICT Software Engineering 
+
+# 3815ICT Software Engineering
 
 ## Assignment Specification: Milestone 1
 
 ### Assignment Title: Enhanced Tetris Game Development
-### Submission: Milestone 1
-### Due Date: End of Week 5 (25/08/2024)
 
+### Submission: Milestone 1
+
+### Due Date: End of Week 5 (25/08/2024)
 
 ### Objective
 
@@ -38,6 +39,7 @@ To understand the general requirements and functionalities expected in the enhan
 The submission for this milestone is a Word or PDF document based on the template provided on the course website. The document must include the following:
 
 1. **GitHub Project Link**:
+
    - Provide the link to your GitHub project repository.
    - Ensure that you have invited the course convenor to your project so they can access it:
      - GC students, please ask Elizabeth for her GitHub account.
@@ -56,25 +58,28 @@ The submission for this milestone is a Word or PDF document based on the templat
 Students are required to provide a comprehensive project plan. The project plan should follow the provided template and include the following elements:
 
 - **Task Definition and Assignment**:
+
   - Clearly define all tasks necessary for the completion of the project.
   - Assign tasks to individual group members.
 
 - **Time Estimation and Tracking**:
+
   - Estimate the time required to complete each task.
   - Record the actual time spent on each task.
   - Include the planned task finish date and the actual finished date.
 
 - **Group Meetings**:
+
   - Document the frequency of group meetings.
   - Specify the software tools used for project management and communication.
 
 - **Effort Summary Table**:
   - Complete the effort summary table to provide an overview of the work distribution and contributions of each group member.
 
-
 #### 2. GitHub Repository (5 points)
 
 Students are required to provide the link to their GitHub repository. Ensure that the course convenor has access to the repository:
+
 - GC students, please ask Elizabeth for her GitHub account.
 - Online and Nathan students, please add `LarryAtGU` as a team member in your GitHub project.
 
@@ -94,22 +99,16 @@ Based on the demo video and your study of Tetris games, provide a comprehensive 
 
 - **Comprehensive Functional Requirements**:
   - Define all necessary functional requirements for the final product, including those not yet implemented in Milestone 1.
-  
 - **Scoring System**:
   - Detail how scores are calculated.
-  
 - **Game Levels**:
   - Define the criteria for advancing levels and how different levels affect gameplay.
-  
 - **Gameplay Screen**:
   - Specify additional information to be displayed, such as upcoming tetrominoes, current score, etc.
-  
 - **Level Advancement**:
   - Define how levels will automatically increase based on gameplay criteria.
-  
 - **Shortcut Keys**:
   - Define how shortcut keys will be used to enable music and sound effects.
-  
 - **Extended Mode**:
   - Specify additional features or modes that extend the basic game functionality.
 
@@ -117,7 +116,6 @@ Based on the demo video and your study of Tetris games, provide a comprehensive 
 
 - **Unique IDs**:
   - Each functional requirement must have a unique functional requirement ID.
-  
 - **Proper Ordering and Grouping**:
   - Functional requirements should be properly ordered and grouped to enhance readability and organization.
 
@@ -145,7 +143,7 @@ Based on the FURPS+ model, create at least one non-functional requirement in eac
 
 #### 5. Use Case Diagram (10 points)
 
-Based on the functional requirements, create a use case diagram. The use case diagram must comply with the UML use case diagram notation. 
+Based on the functional requirements, create a use case diagram. The use case diagram must comply with the UML use case diagram notation.
 
 **Key points to address**:
 
@@ -190,13 +188,12 @@ Draw an activity diagram to illustrate a typical scenario of playing the game. T
 
 #### 7. Peer Review (5 points)
 
-Based on the provided template, complete the peer review process. Every group member must perform a self-review as well as peer reviews for all other members. 
+Based on the provided template, complete the peer review process. Every group member must perform a self-review as well as peer reviews for all other members.
 
 **Key points to address**:
 
 - **Self Review**:
   - Each member must assess their own contributions and performance.
-  
 - **Peer Reviews**:
   - Each member must review the contributions and performance of all other group members.
 
@@ -212,7 +209,6 @@ Based on the provided template, complete the peer review process. Every group me
 
 - **Use the Template**:
   - Ensure that all reviews are completed using the provided template.
-  
 - **Comprehensive and Fair Assessment**:
   - Provide detailed and fair assessments of each member’s contributions.
   - Highlight strengths and areas for improvement.
@@ -237,7 +233,6 @@ If your group includes master students, each master student must provide a one-p
 
 - **No Marks for This Section**:
   - This section does not carry any marks.
-  
 - **Penalty for Non-Compliance**:
   - Failure to provide a reflection or submitting a poorly written reflection may result in a deduction of up to 10 points from the overall project score.
 
@@ -249,10 +244,8 @@ Students are required to submit a video to demonstrate the functionality of the 
 
 - **Duration**:
   - The video should be no longer than 7 minutes. Videos longer than 7 minutes will not be watched or marked.
-  
 - **Content**:
   - The student should narrate the video, introducing and explaining all the functions of the game.
-  
 - **Quality**:
   - The video quality should be high enough to ensure that the text and visuals in the game are clear and easily visible to the assessor.
 
@@ -265,7 +258,6 @@ The video should start from the startup of the game, showcasing a splash window 
 - **Splash Window Design**:
   - You may design your own images for the splash window.
   - The splash window should include the identity of your group, the course code, and any other relevant information.
-  
 - **Display and Duration**:
   - The splash window should be displayed in the middle of the screen.
   - It should last for a few seconds before disappearing and transitioning to the main game screen.
@@ -291,6 +283,7 @@ In the main screen, clicking the Configuration button should replace the main sc
 **Requirements**:
 
 - **Configuration Screen Elements**:
+
   - The configuration screen should include the following settings:
     - **Field Width**: Display the current field width and allow adjustment.
     - **Field Height**: Display the current field height and allow adjustment.
@@ -313,6 +306,7 @@ In the main screen, clicking the High Scores button should navigate to the High 
 **Requirements**:
 
 - **High Score Screen Elements**:
+
   - The screen should list the top 10 scores.
   - Each score entry should include:
     - **Player Name**
@@ -330,6 +324,7 @@ In the main screen, clicking the Play button will navigate to the play screen wh
 **Requirements**:
 
 - **Play Screen Elements**:
+
   - The field size should be 10 x 20.
   - A randomly generated tetromino will start moving from the top of the field downward.
   - The movement of the tetromino should be smooth, not jumping from one row to the next.
@@ -339,11 +334,9 @@ In the main screen, clicking the Play button will navigate to the play screen wh
   - **Right Arrow**: Move the tetromino right.
   - **Down Arrow**: Speed up the dropping of the tetromino. If the down arrow is released before the tetromino hits the bottom, it should return to normal dropping speed.
   - **Up Arrow**: Rotate the tetromino 90 degrees clockwise.
-  
 - **Collision Handling**:
   - When a tetromino hits the bottom of the field or another settled tetromino, it should settle into place.
   - Ensure that moving left, right, down, or rotating does not cause any part of the tetromino to go outside the field boundaries or overlap with any other settled tetrominoes.
-
 
 #### 15. Erase Full Rows (5 points)
 
@@ -352,12 +345,15 @@ During gameplay, if a row of the field is fully occupied by tetrominoes, the row
 **Requirements**:
 
 - **Full Row Detection**:
+
   - Detect when a row is fully occupied by tetrominoes.
 
 - **Row Erasure**:
+
   - Erase the fully occupied row and move all settled blocks above it down by one row.
 
 - **Multiple Row Erasure**:
+
   - Handle cases where multiple rows become fully occupied and need to be erased simultaneously.
   - Demonstrate the erasure of multiple rows in your video.
 
@@ -372,6 +368,7 @@ When the game is running, which means there are still tetrominoes moving on the 
 **Requirements**:
 
 - **Pause Functionality**:
+
   - Pressing the P button should pause the game, stopping all tetromino movement.
   - When the game is paused, display a message on the field indicating that the game is paused and instructing the player to press P again to continue.
 
@@ -387,15 +384,12 @@ The play screen should include a Back button at the bottom with the following fu
 - **Back Button**:
   - The Back button should be located at the bottom of the play screen.
   - When the game is over (i.e., the generated tetromino cannot move), clicking the Back button should return to the main screen.
-  
 - **In-Game Back Button Behavior**:
   - If the game is running, clicking the Back button should pause the game and display a confirmation dialog asking the user if they want to stop the game.
   - If the user clicks **Yes** in the dialog, the game stops, and the user is returned to the main screen.
   - If the user clicks **No** in the dialog, the game continues.
-  
 - **Paused Game**:
   - If the game is paused before the user clicks the Back button, clicking the Back button should maintain the paused status when returning from the confirmation dialog.
-  
 - **Running Game**:
   - If the game is running normally when the user clicks the Back button, it should return to its normal running state after the confirmation dialog if the user chooses not to stop the game.
   - You should demonstrate all the situations in your video.
@@ -407,6 +401,7 @@ In the main screen, clicking the Exit button should bring up a dialog box to con
 **Requirements**:
 
 - **Exit Confirmation Dialog**:
+
   - Clicking the Exit button on the main screen should display a confirmation dialog box.
   - The dialog box should ask the user to confirm if they want to exit the program.
 
@@ -415,11 +410,12 @@ In the main screen, clicking the Exit button should bring up a dialog box to con
   - **No**: Returns to the main screen.
 
 ### FAQ
+
 Q: What programming language should we use?
 A: You should use Java for this assignment.
 
 Q: How many studnets in one group?
-A: A group can have up to 5 students, as this is a group project, we encourage students to work in groups as it provides a more real project like environments. However, for students who want to work alone, they can enrol in one person groups. 
+A: A group can have up to 5 students, as this is a group project, we encourage students to work in groups as it provides a more real project like environments. However, for students who want to work alone, they can enrol in one person groups.
 
 Q: Can students from different course codes and/or from different labs to work in a group
 A: We encouage students from the same lab to form groups as it will be more convinent for the students to work for the assignment, however, we do allow mixed groups for the maximum benefits of the students.
@@ -432,6 +428,12 @@ A: For questions related to the course contents, please send your question to La
 
 Q: How many submissions required for a group?
 A: One group only need to make one submission by a student from the group.
+
+Q: If I work alone, how do I domonstate group meeting.
+A: Some assessment items related to multiple students in a group are not appliable for students work alone. For those assessment items, the students work alone don't need to demonstrate them, maybe just write N/A in the submission under those items, and they will not lose marks on those items.
+
+Q: Can I draw multiple activity diagram if one diagram is too complex.
+A: Yes, you can, make sure to make the connection between your diagrams are clear, and remember to following UML notation for activity diagram and use swimlanes.
 
 ### Remarks
 
