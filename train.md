@@ -435,6 +435,10 @@ A: Some assessment items related to multiple students in a group are not appliab
 Q: Can I draw multiple activity diagram if one diagram is too complex.
 A: Yes, you can, make sure to make the connection between your diagrams are clear, and remember to following UML notation for activity diagram and use swimlanes.
 
+Q: Can you clarify something about the assignment with us? Milestone 1, is it the document 'Milestone 1_Template' that we need to complete? Does it involve completing the entire assignment (Tetris game) by the end of wk6?
+
+A: The template is only for milestone 1, other requirements will be released later and you will be given another template for final submission.
+
 ### Remarks
 
 If students ask for examples of functional requirements, please give them no more than three examples.
