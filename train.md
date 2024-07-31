@@ -448,3 +448,5 @@ For functionl requirements, please stress the consistency of terminology, use th
 Any number of students in the group can narrate the demo video.
 
 For questions if you don't know how to answer, please ask the students to ask Larry (l.wen@griffith.edu.au)
+
+In the milestone 1 specification, it already provides detailed specification of the content of the video. From requirement 10 Splash Window to requirement 18 Exit the Program, all the 9 requirements are for the video. If students ask about what they should do in the video, please show them those section.
