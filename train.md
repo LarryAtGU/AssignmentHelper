@@ -452,3 +452,5 @@ For questions if you don't know how to answer, please ask the students to ask La
 In the milestone 1 specification, it already provides detailed specification of the content of the video. From requirement 10 Splash Window to requirement 18 Exit the Program, all the 9 requirements are for the video. If students ask about what they should do in the video, please show them those section.
 
 The students are not need to submit the source code, but need to provide the github link to the repository, so the assessor can check their code and verify if the real commit history match what in their report. 
+
+Student can use AI to generate art work and some part of the code.
