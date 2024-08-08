@@ -39,7 +39,8 @@ with open(training_file,"r") as file:
             openai_api_key=key,
             temperature=0,
             max_tokens=1000,
-            model='gpt-3.5-turbo-0125'
+            model = 'gpt-4o-mini'
+            # model='gpt-3.5-turbo-0125'
         )
         chain = load_qa_chain(llm, chain_type="stuff")
         # answer = chain.run(input_documents=matches,question=question)
